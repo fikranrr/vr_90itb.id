@@ -28,7 +28,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 | | Development |
 | --- | --- |
-| `Debugging` | True |
+| `Debugging` | ✔️ |
 | `App Name` | VRITB 90 |
 | `App Logos` | ![alt_text](https://github.com/fikranrr/vr_90itb.id/blob/main/vr_90itb.id-main/assets/logo_90_vr.png?raw=true) |
 
